@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Snakes and Ladders</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background: #f8f9fa;
+      color: #333;
+    }
+    h1 {
+      color: #0056b3;
+    }
+    section {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Snakes and Ladders ("the App") is developed by <strong>Parmeshwar Gayakwad</strong>.</p>
+
+  <section>
+    <h2>1. Information We Collect</h2>
+    <p>The App itself does not collect or store any personal information from users.</p>
+    <p>However, we use <strong>Google AdMob</strong> to display advertisements. AdMob may collect certain information automatically, such as device identifiers, cookies, and usage data, to provide relevant ads.</p>
+  </section>
+
+  <section>
+    <h2>2. Permissions Used</h2>
+    <ul>
+      <li><strong>Camera:</strong> Used only when you choose to capture an image inside the game.</li>
+      <li><strong>Storage:</strong> Used only when you upload an image from your device. No images are shared externally.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>3. Third-Party Services</h2>
+    <p>The App uses <strong>Google AdMob</strong> for advertisements. Please review Google’s privacy policy for more details: 
+      <a href="https://policies.google.com/privacy" target="_blank">Google Privacy Policy</a>.
+    </p>
+  </section>
+
+  <section>
+    <h2>4. Children’s Privacy</h2>
+    <p>This App is not directed to children under 13. If you are under 13, please use the app with parental guidance.</p>
+  </section>
+
+  <section>
+    <h2>5. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Updates will be posted here with the revised date.</p>
+  </section>
+
+  <section>
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions, please contact us:</p>
+    <p>Email: <a href="mailto:parmeshwargaykwad27@gmail.com">parmeshwargaykwad27@gmail.com</a></p>
+    <p>YouTube: <a href="https://www.youtube.com/@marathi_tech_support" target="_blank">Marathi Tech Support</a></p>
+  </section>
+
+  <p><em>Last updated: August 2025</em></p>
+</body>
+</html>
